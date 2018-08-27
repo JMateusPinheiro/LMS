@@ -13,7 +13,7 @@ Repositorio das atividades da disciplina linguagem de marcação e script
 
 ## Lista 2
 
- Faça um “blog” contendo artigos sobre um assunto específico sempre usando as tags estruturais semânticas do HTML 5 (<article>, <section>, <header>, <footer>). Escolha um tema de sua preferência e implemente o que se pede:
+ Faça um “blog” contendo artigos sobre um assunto específico sempre usando as tags estruturais semânticas do HTML 5 (article, section, header, footer). Escolha um tema de sua preferência e implemente o que se pede:
 
 <ul>
  <li>Seu blog deve conter um cabeçalho com o nome do blog</li>
