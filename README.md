@@ -22,10 +22,11 @@ Repositorio das atividades da disciplina linguagem de marcação e script
  <li>Seu blog deve conter pelo menos 2 artigos com cabeçalho com textos sobre o assunto. Pelo menos um desses artigos deve ter mais de uma seção.</li>
  <li>Faça um terceiro artigo contendo um desenho SVG usando círculos e linhas (http://www.w3schools.com/svg/svg_line.asp) para desenhar um boneco de palito.</li>
  <li>Faça um quarto artigo com audios e vídeos sobre o assunto. Vídeos podem ser do YouTube (http://www.w3schools.com/html/html_youtube.asp)</li>
- <li>Faça um quinto artigo com formulário de cadastro de usuários. Esse usuário deve fazer requisições GET à página https://www.w3schools.com/action_page.php. Seu formulário deve conter:</li>
-a. Um campo texto para nome com que permite no máximo 15 caracteres 
-b. Um campo texto apenas para leitura
-c. Um campo numérico para inserir números entre 25000 e 30000
-d. Um input do tipo radiobox
-e. Um input do tipo checkbox
+ <li>Faça um quinto artigo com formulário de cadastro de usuários. Esse usuário deve fazer requisições GET à página https://www.w3schools.com/action_page.php. Seu formulário deve conter:
+<ol>
+<li>Um campo texto para nome com que permite no máximo 15 caracteres</li>
+<li>Um campo texto apenas para leitura</li>
+<li>Um campo numérico para inserir números entre 25000 e 30000</li>
+<li>Um input do tipo radiobox</li>
+<li>Um input do tipo checkbox</li></ol></li>
 </ul>
