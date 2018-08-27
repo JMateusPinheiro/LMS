@@ -28,8 +28,6 @@ Repositorio das atividades da disciplina linguagem de marcação e script
    <li>Um campo texto apenas para leitura</li>
    <li>Um campo numérico para inserir números entre 25000 e 30000</li>
    <li>Um input do tipo radiobox</li>
-   <li>Um input do tipo checkbox</li></ol></li>
+   <li>Um input do tipo checkbox</li></ol>
+ </li>
 </ul>
-
-* OI
- * oi
