@@ -1,0 +1,41 @@
+body{
+	background-image: url(../img/gradient_bg.png);
+	background-repeat: repeat-x;
+}
+
+.article-style{
+	border-style: ridge;
+	border-color: #999;
+	padding: 3px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	background-color: white;
+}
+
+h1{
+	color: red;
+	font-family: arial;
+}
+
+section h1,h2,h3,h4,h5{
+	color: lightgrey;
+}
+
+.titulo{
+	color: blue;
+}
+
+#titulo{
+	color: green;
+}
+
+.minha-classe{
+	color: purple;
+}
+
+.text-format{
+	font-size: 20px;
+	text-align: center;
+	text-decoration-color: red;
+	font-family: times new roman;
+}
