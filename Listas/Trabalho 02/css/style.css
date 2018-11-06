@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    text-align: center;
+    margin: auto;
+    width: 900px;
+    height: 100vh;
+}
+
+.header{
+    background-color: antiquewhite;
+    margin-top: 20px;
+}
+
+.header .title{
+    margin: 10px;
+    display: inline-block;
+}
+
+.friend-list{
+    margin-top: 20px;
+    background-color: beige;
+    position: relative;
+    float: left;
+    height: 80vh;
+    width: 25%;
+    text-align: center;
+}
+
+.friend-list .title2{
+    background: violet;
+}
+
+.friend-list .title2 h2{
+    display: inline-block;
+    margin: 20px;
+}
+
+.messages-list{
+    margin-top: 20px;
+    position: relative;
+    float: left;
+    width: 75%;
+    height: 80vh;
+    text-align: center;
+}
+
+.messages-list .title3 h2{
+    display: inline-block;
+    margin: 20px;
+}
+
+.messages-list .title3{
+    background: rgb(177, 59, 245);
+}
+
+.friends{
+    margin: 30px 10px 10px;
+    list-style-type: none;
+}
+
+.messages{
+    margin: 30px 10px 10px;
+    list-style-type: none;
+}
+.messages-list .send .send-message-field{
+    position: absolute;
+    bottom: 0px;        
+    background-color: rgb(43, 165, 145);    
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+}
+.messages-list .send .send-message-field .send-field{
+    display: inline-block;
+    height: 30px;
+    float: left;
+    width: 79%;
+}
+.messages-list .send .send-message-field .send-button{
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    height: 34px;
+    float: left;
+    width: 20%;
+}
+
