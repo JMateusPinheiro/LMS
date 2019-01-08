@@ -1,7 +1,7 @@
 # LMS
 Repositorio das atividades da disciplina linguagem de marcação e script
 
-## Lista 1
+## Lista 1 
 
 * Sua página deve conter, pelo menos, dois cabeçalhos de tamanhos diferentes e dois parágrafos
 * Coloque os elementos relacionados dentro de divs
